@@ -41,3 +41,13 @@ okayyy i have my matrix mostly done, i gotta wire it up :3
 ### Pre-Session Write-Up
 
 yeah i need to wire ts up 
+
+### during session write up
+
+<img width="954" height="412" alt="image" src="https://github.com/user-attachments/assets/ee30f427-6ab0-40f6-bc3e-6b208b0d1b68" />
+
+i infact, wired ts up
+
+im gonna take a short break and then add the labels, then look for good micro controllers
+
+time: 6:06
