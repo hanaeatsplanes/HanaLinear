@@ -20,3 +20,7 @@ for now, im gonna start working on the keyboard matrix
 <img width="828" height="342" alt="image" src="https://github.com/user-attachments/assets/28c7cd80-dc5c-4236-a36c-6eb43e954bc7" />
 
 sooo i came up with this keyboard layout, im pretty happy w/ it, i js dont like the esc key being like. up there. but its whatever chat :meffo:
+
+<img width="851" height="356" alt="image" src="https://github.com/user-attachments/assets/cd319f84-89e7-478c-91b0-83a08d04f38c" />
+
+nvm </3 indeciscive asf
