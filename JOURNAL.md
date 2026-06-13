@@ -1,9 +1,11 @@
 # HanaLinear Journal
 
+Total Time: 1h
+
 ## Day 1: June 13, 2026
 * Start Time: 3:50 PM 
-* End Time: TBA
-* Time Spent Working:
+* End Time: 5:08
+* Time Spent Working: 1h
 
 ### Pre-Session Write-Up
 
