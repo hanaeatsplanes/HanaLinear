@@ -27,4 +27,6 @@ nvm </3 indeciscive asf
 
 ### Post Session Write Up
 
+<img width="1203" height="522" alt="image" src="https://github.com/user-attachments/assets/9c274211-e938-4268-8a4c-058622538e4d" />
+
 okayyy i have my matrix mostly done, i gotta wire it up :3 
