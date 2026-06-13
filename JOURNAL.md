@@ -24,3 +24,7 @@ sooo i came up with this keyboard layout, im pretty happy w/ it, i js dont like 
 <img width="851" height="356" alt="image" src="https://github.com/user-attachments/assets/cd319f84-89e7-478c-91b0-83a08d04f38c" />
 
 nvm </3 indeciscive asf
+
+### Post Session Write Up
+
+okayyy i have my matrix mostly done, i gotta wire it up :3 
