@@ -4,7 +4,7 @@ Total Time: 1h
 
 ## Day 1: June 13, 2026
 * Start Time: 3:50 PM 
-* End Time: 5:08
+* End Time: 5:08 PM
 * Time Spent Working: 1h
 
 ### Pre-Session Write-Up
@@ -32,3 +32,12 @@ nvm </3 indeciscive asf
 <img width="1203" height="522" alt="image" src="https://github.com/user-attachments/assets/9c274211-e938-4268-8a4c-058622538e4d" />
 
 okayyy i have my matrix mostly done, i gotta wire it up :3 
+
+
+* Start Time: 5:30 PM 
+* End Time: 
+* Time Spent Working: 
+
+### Pre-Session Write-Up
+
+yeah i need to wire ts up 
