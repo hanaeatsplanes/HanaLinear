@@ -14,3 +14,9 @@ okay so, i wanna make an ortholinear keyboard, its gonna be
 * i want it to be all aestethic and shit
 
 for now, im gonna start working on the keyboard matrix
+
+### During Session Notes
+
+<img width="828" height="342" alt="image" src="https://github.com/user-attachments/assets/28c7cd80-dc5c-4236-a36c-6eb43e954bc7" />
+
+sooo i came up with this keyboard layout, im pretty happy w/ it, i js dont like the esc key being like. up there. but its whatever chat :meffo:
