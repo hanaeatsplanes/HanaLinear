@@ -72,3 +72,6 @@ i'm kinda worried about having wired keyboard because if i mess up the cad place
 oh well :P
 <img width="785" height="595" alt="image" src="https://github.com/user-attachments/assets/49e0e29e-9014-487c-9c57-02fd6a4d4e4f" />
 
+i stopped working at around 11:30, im gonna try and work on rotary encoders + mcu
+
+
