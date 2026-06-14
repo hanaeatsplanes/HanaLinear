@@ -35,8 +35,8 @@ okayyy i have my matrix mostly done, i gotta wire it up :3
 
 
 * Start Time: 5:30 PM 
-* End Time: 
-* Time Spent Working: 
+* End Time: 6:06 PM
+* Time Spent Working: 30m
 
 ### Pre-Session Write-Up
 
@@ -48,6 +48,18 @@ yeah i need to wire ts up
 
 i infact, wired ts up
 
-im gonna take a short break and then add the labels, then look for good micro controllers
+### post session write up
 
-time: 6:06
+hi so this is me like morning after, but i became indecisive again, im gonna add back f4 (spotlight search) so yeah!!!
+
+## Day 2: June 14, 2026
+* Start Time: 11:07 AM
+* End Time:
+* Time Spent Working:
+
+### Pre Session Write Up
+
+grr i 
+<img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/47f02c8e-01d2-4724-9f7e-e66ee7c7cd83" />
+im gonna add back f4, and loook for some mcu's today
+idek if i wired it up right
