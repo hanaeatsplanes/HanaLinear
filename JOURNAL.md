@@ -63,3 +63,12 @@ grr i
 <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/47f02c8e-01d2-4724-9f7e-e66ee7c7cd83" />
 im gonna add back f4, and loook for some mcu's today
 idek if i wired it up right
+
+### during session write up
+
+okay so, i chose an rp2040, mostly because it's "industry standard"
+
+i'm kinda worried about having wired keyboard because if i mess up the cad placement then its kaputz
+oh well :P
+<img width="785" height="595" alt="image" src="https://github.com/user-attachments/assets/49e0e29e-9014-487c-9c57-02fd6a4d4e4f" />
+
