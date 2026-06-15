@@ -126,3 +126,6 @@ i might genuinely finish the pcb todya
 
 yee snaw brotha
 
+<img width="1182" height="521" alt="image" src="https://github.com/user-attachments/assets/35ccdc50-24e0-4135-a120-90a626f4575a" />
+
+cooking??
