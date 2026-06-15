@@ -107,3 +107,7 @@ seriously. no 3u. wtf. why... no 7u either which means i need to custom design t
 
 https://keeb.io/products/cherry-mx-stabilizer?variant=39518829772894
 LFGGG OKAY 3U STABILIZERS NOW I JUST NEED TO PUT THEM IN THERE FORCEFULLY
+
+wait im locked in i swear, god i hate finding parts
+<img width="879" height="94" alt="image" src="https://github.com/user-attachments/assets/761d388a-2851-4b98-b659-0e9d3fe01f93" />
+
