@@ -122,4 +122,7 @@ im so pcbing it
 
 i might genuinely finish the pcb todya
 
+<img width="883" height="357" alt="image" src="https://github.com/user-attachments/assets/a2d87b79-0097-4652-8758-617157690ad2" />
+
+yee snaw brotha
 
