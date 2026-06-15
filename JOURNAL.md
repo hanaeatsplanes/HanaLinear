@@ -81,3 +81,10 @@ oh well :P
 
 i have zero idea how a rotary encoder should be wired, but we ball
 also i'm a bit upset that i can only do USB 2.0 on an RP2040 but its not like i need that much speed
+
+### during session write up
+
+<img width="560" height="730" alt="image" src="https://github.com/user-attachments/assets/b2fd5927-9d95-4d54-a356-d202b69e4e4a" />
+
+wahooo :DD
+rotary encoders confuse me,,, i dont know if i even have enough pins
