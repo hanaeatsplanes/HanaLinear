@@ -88,3 +88,7 @@ also i'm a bit upset that i can only do USB 2.0 on an RP2040 but its not like i 
 
 wahooo :DD
 rotary encoders confuse me,,, i dont know if i even have enough pins
+
+<img width="357" height="533" alt="image" src="https://github.com/user-attachments/assets/d04a4085-e6c6-4e32-a0fb-ffb23bf74e29" />
+
+why is working with usb 3.0 so painful, but working with usb 2.0 is so easy? much to consider
