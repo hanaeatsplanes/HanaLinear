@@ -114,4 +114,9 @@ wait im locked in i swear, god i hate finding parts
 "finished" part selection, ill actually look for the specific ones i want later, rn i just know that the sizes i wanted existed.
 <img width="693" height="582" alt="image" src="https://github.com/user-attachments/assets/860055a1-1a97-4c77-8be2-17bbfead77cb" />
 
+im so pcbing it
+
+<img width="677" height="639" alt="image" src="https://github.com/user-attachments/assets/aa38d047-d0eb-48d8-9c42-b0bb977a8d3f" />
+
+
 
