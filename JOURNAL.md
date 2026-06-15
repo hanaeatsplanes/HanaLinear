@@ -96,3 +96,7 @@ why is working with usb 3.0 so painful, but working with usb 2.0 is so easy? muc
 <img width="806" height="176" alt="image" src="https://github.com/user-attachments/assets/0b2cbe7b-6017-44c6-9574-052ad3f9b237" />
 
 cursed, i just cant explain why
+
+<img width="466" height="323" alt="image" src="https://github.com/user-attachments/assets/d095449d-2afd-47a0-9030-639976abde67" />
+
+OH MY GOD I FINISHED OH MY GOD OH YAYYYYYY
