@@ -92,3 +92,7 @@ rotary encoders confuse me,,, i dont know if i even have enough pins
 <img width="357" height="533" alt="image" src="https://github.com/user-attachments/assets/d04a4085-e6c6-4e32-a0fb-ffb23bf74e29" />
 
 why is working with usb 3.0 so painful, but working with usb 2.0 is so easy? much to consider
+
+<img width="806" height="176" alt="image" src="https://github.com/user-attachments/assets/0b2cbe7b-6017-44c6-9574-052ad3f9b237" />
+
+cursed, i just cant explain why
