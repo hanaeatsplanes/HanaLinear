@@ -104,3 +104,6 @@ OH MY GOD I FINISHED OH MY GOD OH YAYYYYYY
 <img width="448" height="369" alt="image" src="https://github.com/user-attachments/assets/e2269a63-0a5f-4ce0-a0cb-33637a6b15a0" />
 
 seriously. no 3u. wtf. why... no 7u either which means i need to custom design that
+
+https://keeb.io/products/cherry-mx-stabilizer?variant=39518829772894
+LFGGG OKAY 3U STABILIZERS NOW I JUST NEED TO PUT THEM IN THERE FORCEFULLY
