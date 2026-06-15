@@ -118,5 +118,8 @@ im so pcbing it
 
 <img width="677" height="639" alt="image" src="https://github.com/user-attachments/assets/aa38d047-d0eb-48d8-9c42-b0bb977a8d3f" />
 
+<img width="674" height="252" alt="image" src="https://github.com/user-attachments/assets/8a2b28fb-e68b-4295-b6d4-7ea0ef979724" />
+
+i might genuinely finish the pcb todya
 
 
