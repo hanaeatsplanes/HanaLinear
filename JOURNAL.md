@@ -74,8 +74,8 @@ oh well :P
 
 ## Day 3: June 15, 2026
 * Start Time: 9 AM
-* End Time: 
-* Time Spent Working: 
+* End Time: 7 PM
+* Time Spent Working: 9H 
 
 ### pre session left down
 
@@ -129,3 +129,7 @@ yee snaw brotha
 <img width="1182" height="521" alt="image" src="https://github.com/user-attachments/assets/35ccdc50-24e0-4135-a120-90a626f4575a" />
 
 cooking??
+
+<img width="634" height="311" alt="image" src="https://github.com/user-attachments/assets/552306dd-e23f-4b66-884d-1a28201bafb3" />
+
+i placed like, most of the diodes, im gonna stop here for today, phenominal lock in session
