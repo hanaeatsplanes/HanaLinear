@@ -100,3 +100,7 @@ cursed, i just cant explain why
 <img width="466" height="323" alt="image" src="https://github.com/user-attachments/assets/d095449d-2afd-47a0-9030-639976abde67" />
 
 OH MY GOD I FINISHED OH MY GOD OH YAYYYYYY
+
+<img width="448" height="369" alt="image" src="https://github.com/user-attachments/assets/e2269a63-0a5f-4ce0-a0cb-33637a6b15a0" />
+
+seriously. no 3u. wtf. why... no 7u either which means i need to custom design that
