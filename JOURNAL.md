@@ -54,8 +54,8 @@ hi so this is me like morning after, but i became indecisive again, im gonna add
 
 ## Day 2: June 14, 2026
 * Start Time: 11:07 AM
-* End Time:
-* Time Spent Working:
+* End Time: 11:30 AM
+* Time Spent Working: 30m
 
 ### Pre Session Write Up
 
@@ -72,6 +72,12 @@ i'm kinda worried about having wired keyboard because if i mess up the cad place
 oh well :P
 <img width="785" height="595" alt="image" src="https://github.com/user-attachments/assets/49e0e29e-9014-487c-9c57-02fd6a4d4e4f" />
 
-i stopped working at around 11:30, im gonna try and work on rotary encoders + mcu
+## Day 3: June 15, 2026
+* Start Time: 9 AM
+* End Time: 
+* Time Spent Working: 
 
+### pre session left down
 
+i have zero idea how a rotary encoder should be wired, but we ball
+also i'm a bit upset that i can only do USB 2.0 on an RP2040 but its not like i need that much speed
