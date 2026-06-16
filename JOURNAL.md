@@ -136,6 +136,8 @@ i placed like, most of the diodes, im gonna stop here for today, phenominal lock
 
 ## Day 4: June 16th, 2026
 * Start Time: 9:00 AM
+* End Time: 12:00
+* Time Elapsed: 3h
 
 ### during sussion
 
