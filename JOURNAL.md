@@ -1,6 +1,6 @@
 # HanaLinear Journal
 
-Total Time: 14 hours
+Total Time: 17 hours
 
 ## Day 1: June 13, 2026
 * Start Time: 3:50 PM 
@@ -154,8 +154,8 @@ wired up most of rp2040 + flash
 ---
 
 * Start Time: 3:20 PM
-* End Time: 
-* Time Elapsed:
+* End Time: 6:30
+* Time Elapsed: 3h
 
 ### pre sesssion
 
@@ -185,3 +185,8 @@ oh thats not so bad-
 <img width="122" height="29" alt="image" src="https://github.com/user-attachments/assets/409eb8f6-f25b-4c7d-b38e-dabdcf50cc07" />
 
 awh :(
+
+### after session
+
+the pcb is finally done. cad time !!!! :D
+gonna work on cad 
