@@ -177,3 +177,11 @@ LFGG OKAY I GOT THE USB SHIT WIRED, NOW I JUST NENED TO ROTARY ENCODERSSS
 <img width="709" height="378" alt="image" src="https://github.com/user-attachments/assets/e37cb9b8-cd1f-4749-a3b5-99697a8615a2" />
 
 fuh yeah :rose:
+
+<img width="98" height="21" alt="image" src="https://github.com/user-attachments/assets/f6a20e1a-b0fc-40fb-8de6-41d8b519c39c" />
+
+oh thats not so bad-
+
+<img width="122" height="29" alt="image" src="https://github.com/user-attachments/assets/409eb8f6-f25b-4c7d-b38e-dabdcf50cc07" />
+
+awh :(
