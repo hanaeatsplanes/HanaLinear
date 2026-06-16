@@ -172,3 +172,8 @@ also making the pcb look coool and allat,,
 <img width="1011" height="484" alt="image" src="https://github.com/user-attachments/assets/cb36dd92-a25a-49eb-81d9-9dc8c155aaf1" />
 
 LFGG OKAY I GOT THE USB SHIT WIRED, NOW I JUST NENED TO ROTARY ENCODERSSS
+
+
+<img width="709" height="378" alt="image" src="https://github.com/user-attachments/assets/e37cb9b8-cd1f-4749-a3b5-99697a8615a2" />
+
+fuh yeah :rose:
