@@ -133,3 +133,13 @@ cooking??
 <img width="634" height="311" alt="image" src="https://github.com/user-attachments/assets/552306dd-e23f-4b66-884d-1a28201bafb3" />
 
 i placed like, most of the diodes, im gonna stop here for today, phenominal lock in session
+
+## Day 4: June 16th, 2026
+* Start Time: 9:00 AM
+
+### during sussion
+
+i did a little extra last night, i added all the jlcpcb rules that i stole from a template thing,, now im wiring up the usbc
+
+<img width="397" height="432" alt="image" src="https://github.com/user-attachments/assets/c86be7de-5a3d-4f2d-8a69-c8c70f73397d" />
+
