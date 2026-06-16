@@ -160,3 +160,9 @@ wired up most of rp2040 + flash
 ### pre sesssion
 
 i. hate. usb
+
+okay todo:
+* power
+* usb
+* i think thats it ngl
+also making the pcb look coool and allat,,
