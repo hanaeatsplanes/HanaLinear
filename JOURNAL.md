@@ -166,3 +166,9 @@ okay todo:
 * usb
 * i think thats it ngl
 also making the pcb look coool and allat,,
+
+### DURING SESSION
+
+<img width="1011" height="484" alt="image" src="https://github.com/user-attachments/assets/cb36dd92-a25a-49eb-81d9-9dc8c155aaf1" />
+
+LFGG OKAY I GOT THE USB SHIT WIRED, NOW I JUST NENED TO ROTARY ENCODERSSS
