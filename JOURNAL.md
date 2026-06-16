@@ -150,3 +150,13 @@ i did a little extra last night, i added all the jlcpcb rules that i stole from 
 <img width="814" height="424" alt="image" src="https://github.com/user-attachments/assets/7da75f22-89ed-4789-9c5b-aade91f7d930" />
 
 wired up most of rp2040 + flash
+
+---
+
+* Start Time: 3:20 PM
+* End Time: 
+* Time Elapsed:
+
+### pre sesssion
+
+i. hate. usb
