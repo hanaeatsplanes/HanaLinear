@@ -143,3 +143,8 @@ i did a little extra last night, i added all the jlcpcb rules that i stole from 
 
 <img width="397" height="432" alt="image" src="https://github.com/user-attachments/assets/c86be7de-5a3d-4f2d-8a69-c8c70f73397d" />
 
+### after session
+
+<img width="814" height="424" alt="image" src="https://github.com/user-attachments/assets/7da75f22-89ed-4789-9c5b-aade91f7d930" />
+
+wired up most of rp2040 + flash
