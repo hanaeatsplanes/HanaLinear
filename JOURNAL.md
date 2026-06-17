@@ -199,3 +199,7 @@ gonna work on cad
 # during session
 <img width="258" height="224" alt="image" src="https://github.com/user-attachments/assets/daa43883-a647-4c48-b9b9-71dd8958b84c" />
 son im crine why he look like dat tho
+
+... time to move away from the good world of pcb design and move to ,, firmware,
+<img width="308" height="25" alt="image" src="https://github.com/user-attachments/assets/f60b8fff-331e-447a-a725-638171e63828" />
+
