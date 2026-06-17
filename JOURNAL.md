@@ -1,6 +1,6 @@
 # HanaLinear Journal
 
-Total Time: 17 hours
+Total Time: 18.5 hours
 
 ## Day 1: June 13, 2026
 * Start Time: 3:50 PM 
@@ -193,10 +193,10 @@ gonna work on cad
 
 ---
 * Start Time: 9:30 PM
-* End Time: 
-* Time Elapsed:
+* End Time: 11:30 pm
+* Time Elapsed: 1h30m
 
-# during session
+### during session
 <img width="258" height="224" alt="image" src="https://github.com/user-attachments/assets/daa43883-a647-4c48-b9b9-71dd8958b84c" />
 son im crine why he look like dat tho
 
@@ -208,3 +208,11 @@ sigh.. qmk too hard,,, kmk time,,
 <img width="594" height="147" alt="image" src="https://github.com/user-attachments/assets/6ba614b5-1296-4ed6-a72e-fdf039a86a30" />
 
 hard work in the mines
+
+<img width="1710" height="691" alt="image" src="https://github.com/user-attachments/assets/bc8a6406-2bef-496e-8cc5-f6e5444f0f3b" />
+
+this looks right,
+
+### post session
+
+i still need to finish up the firmware and start cad...
