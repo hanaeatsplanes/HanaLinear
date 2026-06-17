@@ -203,3 +203,8 @@ son im crine why he look like dat tho
 ... time to move away from the good world of pcb design and move to ,, firmware,
 <img width="308" height="25" alt="image" src="https://github.com/user-attachments/assets/f60b8fff-331e-447a-a725-638171e63828" />
 
+sigh.. qmk too hard,,, kmk time,,
+
+<img width="594" height="147" alt="image" src="https://github.com/user-attachments/assets/6ba614b5-1296-4ed6-a72e-fdf039a86a30" />
+
+hard work in the mines
