@@ -38,8 +38,8 @@
         "other_text_upright": true,
         "pads": {
           "drill": 0.0,
-          "height": 0.7,
-          "width": 0.3
+          "height": 0.4,
+          "width": 0.46
         },
         "silk_line_width": 0.1524,
         "silk_text_italic": false,
