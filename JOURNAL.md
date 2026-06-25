@@ -1,6 +1,6 @@
 # HanaLinear Journal
 
-Total Time: 18.5 hours
+Total Time: 20.5 hours
 
 ## Day 1: June 13, 2026
 * Start Time: 3:50 PM 
@@ -219,8 +219,8 @@ i still need to finish up the firmware and start cad...
 
 ## Day 4: June 24th, 2026
 * Start Time: 10:00 PM
-* End Time: 
-* Time Elapsed:
+* End Time: 12 AM
+* Time Elapsed: 2 hours
 
 ### pre session
 cad time.
@@ -228,3 +228,7 @@ cad time.
 ### during session
 
 so my pcb is shit, back to the drawing (traces) board
+
+yeah okay i just kinda fixed up my traces nun special for today
+
+
