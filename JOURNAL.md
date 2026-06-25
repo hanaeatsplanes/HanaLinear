@@ -216,3 +216,11 @@ this looks right,
 ### post session
 
 i still need to finish up the firmware and start cad...
+
+## Day 4: June 24th, 2026
+* Start Time: 10:00 PM
+* End Time: 
+* Time Elapsed:
+
+### pre session
+cad time.
