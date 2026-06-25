@@ -224,3 +224,7 @@ i still need to finish up the firmware and start cad...
 
 ### pre session
 cad time.
+
+### during session
+
+so my pcb is shit, back to the drawing (traces) board
