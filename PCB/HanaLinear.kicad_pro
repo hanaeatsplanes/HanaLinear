@@ -53,9 +53,9 @@
       },
       "diff_pair_dimensions": [
         {
-          "gap": 0.254,
-          "via_gap": 0.25,
-          "width": 0.1524
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
         }
       ],
       "drc_exclusions": [],
@@ -188,10 +188,12 @@
         }
       ],
       "track_widths": [
-        0.15,
+        0.0,
         0.2,
+        0.3,
         0.4,
-        0.6
+        0.6,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -221,8 +223,8 @@
       },
       "via_dimensions": [
         {
-          "diameter": 0.6,
-          "drill": 0.3
+          "diameter": 0.0,
+          "drill": 0.0
         },
         {
           "diameter": 0.9,
@@ -582,7 +584,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "HanaLinear.step",
       "svg": "",
       "vrml": ""
     },
