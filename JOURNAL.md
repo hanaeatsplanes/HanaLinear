@@ -234,8 +234,8 @@ yeah okay i just kinda fixed up my traces nun special for today
 
 ## Day 5: June 26th, 2026
 * Start Time: 2:00
-* End Time: 
-* Elapsed Time
+* End Time: 5:00
+* Elapsed Time: 2h
 
 ### During Session
 
@@ -253,3 +253,19 @@ okay i rerouted shit but i also need keycaps so im gonna use https://github.com/
 
 OMG PEAKKK
 
+### after session
+
+okay i got:
+* keycaps printed
+* (some) parts chosen
+
+just need to order + cad. i hate cad.
+
+### Day 6: June 27th, 2026
+* Start Time: 12:30 PM
+* End Time:
+* Elapsed Time
+
+### During sessoon
+
+why did i think grounding gpio 0 would actually do something. anyway, removing that button.
