@@ -243,14 +243,13 @@ I need to find parts,,,
 
 so my usbc part was out of stock, so im switching to the GT-USB-7010ASV since that is in stock
 
-
 <img src="https://github.com/user-attachments/assets/ee0383b4-e485-4fbd-92e9-0136ea194ce9" />
-
 
 jdflsaklkj i need to re route everything....
 
-
----
-
 okay i rerouted shit but i also need keycaps so im gonna use https://github.com/rsheldiii/KeyV2 :+1:
+
+<img width="982" height="392" alt="image" src="https://github.com/user-attachments/assets/62c5b634-21a6-4d0f-8bd2-393953c4a82e" />
+
+OMG PEAKKK
 
