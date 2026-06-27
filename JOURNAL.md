@@ -1,6 +1,6 @@
 # HanaLinear Journal
 
-Total Time: 20.5 hours
+Total Time: 22.5 hours
 
 ## Day 1: June 13, 2026
 * Start Time: 3:50 PM 
