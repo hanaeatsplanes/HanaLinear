@@ -232,3 +232,19 @@ so my pcb is shit, back to the drawing (traces) board
 yeah okay i just kinda fixed up my traces nun special for today
 
 
+## Day 5: June 26th, 2026
+* Start Time: 2:00
+* End Time: 
+* Elapsed Time
+
+### During Session
+
+I need to find parts,,,
+
+so my usbc part was out of stock, so im switching to the GT-USB-7010ASV since that is in stock
+
+
+<img src="https://github.com/user-attachments/assets/ee0383b4-e485-4fbd-92e9-0136ea194ce9" />
+
+
+jdflsaklkj i need to re route everything....
