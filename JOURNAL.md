@@ -263,9 +263,26 @@ just need to order + cad. i hate cad.
 
 ### Day 6: June 27th, 2026
 * Start Time: 12:30 PM
-* End Time:
-* Elapsed Time
+* End Time: 2:00
+* Elapsed Time: 1:30h
 
 ### During sessoon
 
 why did i think grounding gpio 0 would actually do something. anyway, removing that button.
+
+why is it so expensive,
+also i dont know if itll come on time
+
+we ball, gonna work on cad
+
+---
+
+* Start Time: 8:30 PM
+* End Time: 
+* Elapsed Time: 
+
+### During Session
+
+CAD TIME FOR ONCE I SWEAR
+
+gonna do this with hackatime so no journaling 
