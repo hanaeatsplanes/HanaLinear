@@ -312,3 +312,9 @@ still wiring up matrix,
 <img width="203" height="469" alt="image" src="https://github.com/user-attachments/assets/2908f71d-ff86-4d9f-8eb5-4b6cbcf4e3e3" />
 
 when the via gang pull up
+
+<img width="481" height="549" alt="image" src="https://github.com/user-attachments/assets/90ed3463-3823-4e70-a2e4-120edbe2a045" />
+
+
+going quite well! hopefully this one will be cheaper :pf:
+only a few more cols to go
