@@ -584,7 +584,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "HanaLinear.step",
+      "step": "HanaLinear.stl",
       "svg": "",
       "vrml": ""
     },
