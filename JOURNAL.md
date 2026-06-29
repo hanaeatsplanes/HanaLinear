@@ -318,3 +318,15 @@ when the via gang pull up
 
 going quite well! hopefully this one will be cheaper :pf:
 only a few more cols to go
+
+<img width="190" height="42" alt="image" src="https://github.com/user-attachments/assets/e2743224-521d-4061-b793-7084d5d2f810" />
+
+all done :D
+
+<img width="586" height="513" alt="image" src="https://github.com/user-attachments/assets/fecdde74-9fb5-4021-a507-b92bf9e568ca" />
+
+why'd you do that :(
+
+<img width="498" height="159" alt="image" src="https://github.com/user-attachments/assets/a916c850-cd39-4c8c-9a48-982a5c92de01" />
+
+fuck okay i need to update it
