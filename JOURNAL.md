@@ -277,12 +277,17 @@ we ball, gonna work on cad
 
 ---
 
-* Start Time: 8:30 PM
-* End Time: 
-* Elapsed Time: 
-
 ### During Session
 
 CAD TIME FOR ONCE I SWEAR
 
 gonna do this with hackatime so no journaling 
+
+### day 7: june 28th, 2026
+
+* Start Time: 10:00 PM
+* End Time: 
+* Elapsed Time: 
+
+
+so my pcb is wayy too expensive, gonna switch to single sided pcba to lower costs
