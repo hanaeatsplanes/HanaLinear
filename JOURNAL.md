@@ -291,3 +291,10 @@ gonna do this with hackatime so no journaling
 
 
 so my pcb is wayy too expensive, gonna switch to single sided pcba to lower costs
+
+<img width="752" height="713" alt="image" src="https://github.com/user-attachments/assets/468b87bf-e0e0-426d-8247-037b730e5f09" />
+
+okay, i wired up most of the components (better this time!)
+
+all i need to do is rewire the matrix 👍
+gee this took a lot less time than expected
