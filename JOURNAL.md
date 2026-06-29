@@ -286,8 +286,8 @@ gonna do this with hackatime so no journaling
 ### day 7: june 28th, 2026
 
 * Start Time: 10:00 PM
-* End Time: 
-* Elapsed Time: 
+* End Time: 12:00 AM
+* Elapsed Time: 1h
 
 
 so my pcb is wayy too expensive, gonna switch to single sided pcba to lower costs
@@ -298,3 +298,17 @@ okay, i wired up most of the components (better this time!)
 
 all i need to do is rewire the matrix 👍
 gee this took a lot less time than expected
+
+## day 8: june 29th, 2026
+
+start time: 3:02 PM
+end time:
+elapsed time
+
+### during session
+
+still wiring up matrix,
+
+<img width="203" height="469" alt="image" src="https://github.com/user-attachments/assets/2908f71d-ff86-4d9f-8eb5-4b6cbcf4e3e3" />
+
+when the via gang pull up
