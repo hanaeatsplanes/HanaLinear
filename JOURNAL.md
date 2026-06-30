@@ -350,3 +350,14 @@ LETS FUCKING GO ITS CHEAP
 i need to finish cad now, like fr
 
 
+## day 9: june 30th, 2026
+
+start time: 11:30 AM
+end time: 
+elapsed time: 
+
+### during session
+
+<img width="482" height="213" alt="image" src="https://github.com/user-attachments/assets/4b520862-1805-41e3-bc58-e3321ec1c83b" />
+
+going shopping
