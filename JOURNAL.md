@@ -361,3 +361,7 @@ elapsed time:
 <img width="482" height="213" alt="image" src="https://github.com/user-attachments/assets/4b520862-1805-41e3-bc58-e3321ec1c83b" />
 
 going shopping
+
+<img width="851" height="670" alt="image" src="https://github.com/user-attachments/assets/7f381169-7c20-4ce4-a7ce-d5914b634b74" />
+
+ordered almost everything except for pcb, gotta ship fast!
