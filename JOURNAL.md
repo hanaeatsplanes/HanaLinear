@@ -342,3 +342,9 @@ elapsed time:
 ### during session
 
 updated footprint, gonna send it back to jlc to see if i can order it for cheap
+
+<img width="261" height="112" alt="image" src="https://github.com/user-attachments/assets/6bb13138-577a-479e-b7e5-8315e1eb715d" />
+
+LETS FUCKING GO ITS CHEAP
+
+i need to finish cad now, like fr
