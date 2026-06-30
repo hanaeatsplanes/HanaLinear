@@ -335,8 +335,8 @@ fuck okay i need to update it
 
 
 start time: 10:00 PM
-end time: 
-elapsed time: 
+end time: 12:00
+elapsed time: 1:30h
 
 
 ### during session
@@ -348,3 +348,5 @@ updated footprint, gonna send it back to jlc to see if i can order it for cheap
 LETS FUCKING GO ITS CHEAP
 
 i need to finish cad now, like fr
+
+
