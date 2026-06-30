@@ -302,8 +302,8 @@ gee this took a lot less time than expected
 ## day 8: june 29th, 2026
 
 start time: 3:02 PM
-end time:
-elapsed time
+end time: 7:00 PM
+elapsed time: 3h
 
 ### during session
 
@@ -330,3 +330,15 @@ why'd you do that :(
 <img width="498" height="159" alt="image" src="https://github.com/user-attachments/assets/a916c850-cd39-4c8c-9a48-982a5c92de01" />
 
 fuck okay i need to update it
+
+---
+
+
+start time: 10:00 PM
+end time: 
+elapsed time: 
+
+
+### during session
+
+updated footprint, gonna send it back to jlc to see if i can order it for cheap
