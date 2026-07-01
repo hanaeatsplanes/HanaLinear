@@ -353,9 +353,9 @@ i need to finish cad now, like fr
 ## day 9: june 30th, 2026
 
 start time: 11:30 AM
-end time: 
-elapsed time: 
-
+end time: 3:00 PM
+elapsed time: 2h
+ 
 ### during session
 
 <img width="482" height="213" alt="image" src="https://github.com/user-attachments/assets/4b520862-1805-41e3-bc58-e3321ec1c83b" />
@@ -365,3 +365,7 @@ going shopping
 <img width="851" height="670" alt="image" src="https://github.com/user-attachments/assets/7f381169-7c20-4ce4-a7ce-d5914b634b74" />
 
 ordered almost everything except for pcb, gotta ship fast!
+
+## day 10: july 1st
+
+my keycaps came, but now i need to remove the supports...
